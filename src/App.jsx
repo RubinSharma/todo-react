@@ -27,6 +27,7 @@ function App() {
   return (
     <div className="todo-app">
       <h1>Todo List</h1>
+      <h2>Sijan Pradhan</h2>
       <form onSubmit={addTodo}>
         <input
           type="text"
